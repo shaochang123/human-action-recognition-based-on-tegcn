@@ -19,7 +19,7 @@ model_args:
 phase: test
 device: [0]
 test_batch_size: 256
-weights: ./runs/2101-38-11457.pt
+weights: ./runs/2101-48-14375.pt
 
 
 save_score: True
