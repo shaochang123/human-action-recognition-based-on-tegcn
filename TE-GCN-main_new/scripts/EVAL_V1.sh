@@ -6,7 +6,7 @@ MODELNAME=runs/$RECORD
 
 CONFIG=./config/uav-cross-subjectv1/test.yaml
 
-WEIGHTS=runs/2101-38-11457.pt
+WEIGHTS=runs/2101-48-14375.pt
 
 
 BATCH_SIZE=128
